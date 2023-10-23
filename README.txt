@@ -4,3 +4,5 @@ Task manager uses MongoDB
 1.) run: git clone https://github.com/tutmaG/TaskManager.git
 
 2.) run: npm install or npm i
+
+3.) run: npm start
